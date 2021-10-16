@@ -1,0 +1,50 @@
+header {
+    width: 100%;
+    height: 128px;
+    display: flex;
+    nav {
+        display: flex;
+        width: 100%;
+        .hamburger {
+            height: 64px;
+            width: 64px;
+            font-size: 2rem;
+            color: white;
+            cursor: pointer;
+        }
+        .menu {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px 0px 20px 0px;
+            &__logo {
+                height: 80%;
+            }
+            &__items {
+                display: flex;
+                list-style-type: none;
+                justify-content: center;
+                align-items: center;
+                height: 100%;
+                margin-left: 20px;
+                & li {
+                    
+                    & a {
+                        text-decoration: none;
+                        padding: 5px 10px 5px 10px;
+                        color: var(--contrast-color);
+                        font-weight: 500;
+                        letter-spacing: 0.2em;
+                        transition: all .5s ease-out;
+                        &:hover {
+                            letter-spacing: .15em;
+                        }
+                    }
+                }
+            }
+            .search {
+                height: 100%;
+            }
+        }
+    }
+}

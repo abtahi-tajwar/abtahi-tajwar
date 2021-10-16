@@ -1,0 +1,73 @@
+header {
+  width: 100%;
+  height: 128px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+header nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+header nav .hamburger {
+  height: 64px;
+  width: 64px;
+  font-size: 2rem;
+  color: white;
+  cursor: pointer;
+}
+
+header nav .menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 20px 0px 20px 0px;
+}
+
+header nav .menu__logo {
+  height: 80%;
+}
+
+header nav .menu__items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style-type: none;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+  margin-left: 20px;
+}
+
+header nav .menu__items li a {
+  text-decoration: none;
+  padding: 5px 10px 5px 10px;
+  color: var(--contrast-color);
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  -webkit-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+}
+
+header nav .menu__items li a:hover {
+  letter-spacing: .15em;
+}
+
+header nav .menu .search {
+  height: 100%;
+}
+/*# sourceMappingURL=header.css.map */
