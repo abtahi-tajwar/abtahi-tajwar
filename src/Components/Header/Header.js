@@ -1,28 +1,26 @@
 import React from 'react'
 import WhiteLogo from '../../assets/img/logo_white.png'
 import './css/header.css'
-
-
+import { Box } from '../utils/Style'
 
 function Header() {
     return (
-        <header class="center container-lg">
+        <header className="center container-lg">
             <nav>
-                <div class="hamburger flex-center">
-                    <i class="fas fa-hamburger"></i>
-                </div>
-                
-                <div class="menu">
-                    <img src={ WhiteLogo } class="menu__logo" alt="Main Logo" />
-                    <ul class="menu__items">
-                        <li><a href="">Portfolios</a></li>
-                        <li><a href="">Contact Me</a></li>
-                        <li><a href="">Articles</a></li>
+                <Box className="hamburger flex-center" match="width">
+                    <i className="fas fa-hamburger"></i>
+                </Box>                
+                <div className="menu">
+                    <img src={ WhiteLogo } className="menu__logo" alt="Main Logo" />
+                    <ul className="menu__items">
+                        <li><a href="#">Portfolios</a></li>
+                        <li><a href="#">Contact Me</a></li>
+                        <li><a href="#">Articles</a></li>
                     </ul>
                 </div>
-                <div class="search flex flex-center-v">            
+                <div className="search flex flex-center-v">            
                     <input type="text" placeholder="Search" />
-                    <a href=""><i class="fas fa-search"></i></a>
+                    <a href=""><i className="fas fa-search"></i></a>
                 </div>
                 
             </nav>

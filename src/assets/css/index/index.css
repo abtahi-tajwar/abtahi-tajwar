@@ -58,8 +58,7 @@ body {
 }
 
 .flex-right {
-  -ms-flex-item-align: end;
-      align-self: flex-end;
+  justify-self: flex-end;
 }
 
 .center {

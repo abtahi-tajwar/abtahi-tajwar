@@ -14,8 +14,8 @@ header nav {
 }
 
 header nav .hamburger {
-  height: 64px;
-  width: 64px;
+  height: 100%;
+  background-color: red;
   font-size: 2rem;
   color: white;
   cursor: pointer;
@@ -67,7 +67,56 @@ header nav .menu__items li a:hover {
   letter-spacing: .15em;
 }
 
-header nav .menu .search {
+header nav .search {
   height: 100%;
+  margin-left: auto;
+}
+
+.fixed-top-left {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 100;
+}
+
+@media screen and (orientation: portrait) {
+  header {
+    height: 64px;
+  }
+  header nav .hamburger {
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  header nav .menu {
+    display: none;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-color: var(--bg-color);
+  }
+  header nav .menu__logo {
+    height: 64px;
+  }
+  header nav .menu__items {
+    margin-top: 50px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+  }
+  header nav .menu__items li {
+    margin-top: 15px;
+  }
 }
 /*# sourceMappingURL=header.css.map */

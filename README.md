@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+### Hey 👋, I'm [Md. Abtahi Tajwar!](https://github.com/abtahi-tajwar)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<a href="https://www.linkedin.com/in/abtahi-tajwar/">
+  <img align="left" alt="Tajwar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/abtahi_tajwar/">
+  <img align="left" alt="Tajwar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+ <a href="https://abtahi-tajwar.github.io/abtahitajwar" align="left" > My portfolio : abtahi-tajwar.github.io/abtahitajwar </a> 
+<br />
+<br />
 
-In the project directory, you can run:
+Hi! I am Abtahi Tajwar, I am a fullstack web developer specialzed in javascript. I have experience starting from building beautiful and interactive frontend using row html, css or React Framework. Integrating those with seperate API or firebase also building complex backend to handle large dataset. 
 
-### `npm start`
+"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Talking about Education/Skills:**
 
-### `npm run build`
+- 🎓 Graduating in 2022 from American International University
+-  Javascript 
+-  Web Application, Restful API, Animated UI/UX, Backend with laravel/firebase
+- Javascript, PHP, C#
+-  Html, CSS, React, JQuery, BootStrap, 
+-  RDBMS, MySQL, SQLServer
+-  libraries: Laravel, React, HTMLCanvas, GraphQL, NumPi, Pandadd
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: abtahitajwar@gmail.com
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+&nbsp;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+![Tajwar's github stats](https://github-readme-stats.vercel.app/api?username=abtahi-tajwar&show_icons=true&hide_border=true)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+:pushpin: Star and Fork this [CGCodeGenerator App](https://github.com/abtahi-tajwar/CGCodeGenerator) :pencil:
+:pushpin: Star and Fork this [PixelArt App](https://github.com/abtahi-tajwar/PixelArtApp) :pencil:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+💻 Recent projects in which I have contributed in my [github](https://github.com/abtahi-tajwar)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<a href="https://github.com/Tazneya/shikhboamra">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtahi-tajwar&repo=shikhboamra" />
+</a>
 
-## Learn More
+<a href="https://github.com/n0k1b/e-exam">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtahi-tajwar&repo=e-exam" />
+</a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://github.com/n0k1b/urbor_ecommerce">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abtahi-tajwar&repo=urbor_ecommerce" />
+</a>
