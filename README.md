@@ -40,18 +40,3 @@ Hi! I am Abtahi Tajwar, I am a fullstack web developer specialzed in javascript.
 
 :pushpin: Star and Fork this [CGCodeGenerator App](https://github.com/abtahi-tajwar/CGCodeGenerator) :pencil:
 :pushpin: Star and Fork this [PixelArt App](https://github.com/abtahi-tajwar/PixelArtApp) :pencil:
-
-💻 Recent projects in which I have contributed in my [github](https://github.com/abtahi-tajwar)
-
-
-<a href="https://github.com/Tazneya/shikhboamra">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtahi-tajwar&repo=shikhboamra" />
-</a>
-
-<a href="https://github.com/n0k1b/e-exam">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=abtahi-tajwar&repo=e-exam" />
-</a>
-
-<a href="https://github.com/n0k1b/urbor_ecommerce">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abtahi-tajwar&repo=urbor_ecommerce" />
-</a>
