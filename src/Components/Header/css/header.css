@@ -68,8 +68,24 @@ header nav .menu__items li a:hover {
 }
 
 header nav .search {
-  height: 100%;
   margin-left: auto;
+}
+
+header nav .search__container {
+  padding: 5px;
+  border-bottom: 2px solid white;
+}
+
+header nav .search__container input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--contrast-color);
+  font-style: italic;
+}
+
+header nav .search__container a {
+  color: var(--contrast-color);
 }
 
 .fixed-top-left {
@@ -79,7 +95,7 @@ header nav .search {
   z-index: 100;
 }
 
-@media screen and (orientation: portrait) {
+@media screen and (max-width: 1080px) {
   header {
     height: 64px;
   }
@@ -89,8 +105,16 @@ header nav .search {
     display: -ms-flexbox;
     display: flex;
   }
+  header nav .closeHamburger {
+    position: absolute;
+    background-color: red;
+    left: 20px;
+    top: 0px;
+    height: 64px;
+    color: white;
+    font-size: 2rem;
+  }
   header nav .menu {
-    display: none;
     position: absolute;
     left: 0px;
     top: 0px;

@@ -45,8 +45,21 @@ header {
             }            
         }
         .search {
-            height: 100%;
             margin-left: auto;
+            &__container {                
+                padding: 5px;
+                border-bottom: 2px solid white;
+                input {
+                    background: transparent;
+                    border: none;
+                    outline: none;
+                    color: var(--contrast-color);
+                    font-style: italic;
+                }
+                a {
+                    color: var(--contrast-color);
+                }
+            }
         }
     }
 }
@@ -56,7 +69,7 @@ header {
     top: 0px;
     z-index: 100;
 }
-@media screen and (orientation: portrait){
+@media screen and (max-width: 1080px) {
     header {
         height: 64px;
         nav {
@@ -64,8 +77,17 @@ header {
                 height: 100%;
                 display: flex;
             }
+            .closeHamburger {
+                position: absolute;
+                background-color: red;
+                left: 20px;
+                top: 0px;
+                height: 64px;
+                color: white;
+                font-size: 2rem;
+            }
             .menu {
-                display: none;
+                // display: none;
                 position: absolute;
                 left: 0px;
                 top: 0px;
@@ -86,6 +108,7 @@ header {
                 }
                 
             }
+            
         }
     }
 }

@@ -21,5 +21,20 @@ export function Box({ children, className, match}) {
         </div>
     )
 }
-
+export function StaggerAnimation({ children }) {
+    const newChildren = children.map((item) => {
+        return  {
+            ...item,
+            props: {
+                ...item.props,
+                className: 'Stagger'
+            }
+        }
+    })
+    return (
+        <React.Fragment>
+            {newChildren}
+        </React.Fragment>
+    )
+}
 
