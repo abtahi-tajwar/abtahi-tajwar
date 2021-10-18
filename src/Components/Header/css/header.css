@@ -107,8 +107,7 @@ header nav .search__container a {
   }
   header nav .closeHamburger {
     position: absolute;
-    background-color: red;
-    left: 20px;
+    left: 0px;
     top: 0px;
     height: 64px;
     color: white;
