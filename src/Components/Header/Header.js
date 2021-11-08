@@ -5,7 +5,7 @@ import { Box, StaggerAnimation } from '../utils/Style'
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 
-function Header() {
+function Header({ height }) {
     
     const [isMobile, setIsMobile] =  useState(false)
     const [isNavOpen, setIsNavOpen] = useState(true)
@@ -43,7 +43,7 @@ function Header() {
             setIsNavOpen(false)
         } else {
             setIsMobile(false)  
-            setIsNavOpen(true)          
+            setIsNavOpen(true)        
         }
     })
     const toggleMenu = () => {        
@@ -78,7 +78,7 @@ function Header() {
         }
     }
     return (
-        <header className="center container-lg">
+        <header className="center container-lg" style={{ height: height+"px"}}>
             <nav>
                 {isMobile
                  && 
