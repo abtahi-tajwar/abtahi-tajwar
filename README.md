@@ -1,42 +1,53 @@
 ### Hey 👋, I'm [Md. Abtahi Tajwar!](https://github.com/abtahi-tajwar)
 
-
 <a href="https://www.linkedin.com/in/abtahi-tajwar/">
-  <img align="left" alt="Tajwar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tajwar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/abtahi_tajwar/">
   <img align="left" alt="Tajwar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
- <a href="https://abtahi-tajwar.github.io/abtahitajwar" align="left" > My portfolio : abtahi-tajwar.github.io/abtahitajwar </a> 
+<a href="https://abtahi-tajwar.github.io/abtahitajwar" align="left" > My portfolio : abtahi-tajwar.github.io/abtahitajwar </a> 
 <br />
 <br />
 
-Hi! I am Abtahi Tajwar, I am a fullstack web developer specialzed in javascript. I have experience starting from building beautiful and interactive frontend using row html, css or React Framework. Integrating those with seperate API or firebase also building complex backend to handle large dataset. 
+Hi! I'm Abtahi Tajwar — a fullstack web developer turned cybersecurity enthusiast. I'm passionate about low-level programming, ethical malware development, and building secure and scalable applications.
 
-"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
+I specialize in crafting highly interactive frontends with **React**, **Svelte**, and **Tailwind CSS**, and pairing them with robust backends in **Laravel**, **.NET**, and **Node.js**. I'm also exploring the depths of **system programming in C**, **networking in C++**, and **ethical hacking with Linux tools**.
 
+> "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
 
+<img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+**Current Focus Areas:**
+- Learning **system programming** and **malware development**
+- Building **Fleeting Offers** — a real-time offer aggregation platform
+- Exploring **runtime theming** with **Tailwind CSS v3.4+**
 
-**Talking about Education/Skills:**
+**Skills & Tools:**
+- Languages: JavaScript, TypeScript, C, C++, C#, PHP
+- Frameworks/Libraries: React, Svelte, Laravel, .NET, TailwindCSS
+- Backend: Node.js, Laravel, Firebase, SQLServer, MySQL
+- Others: Neovim, Web Scraping, REST APIs, OAuth, Docker, Git
 
-- 🎓 Graduating in 2022 from American International University
--  Javascript 
--  Web Application, Restful API, Animated UI/UX, Backend with laravel/firebase
-- Javascript, PHP, C#
--  Html, CSS, React, JQuery, BootStrap, 
--  RDBMS, MySQL, SQLServer
--  libraries: Laravel, React, HTMLCanvas, GraphQL, NumPi, Pandadd
+**Education:**
+- MSc in Information Security & Digital Forensics (Ongoing)
+- BSc in Computer Science, AIUB — Graduated 2022
 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: abtahitajwar@gmail.com
+**Available For:**
+- Collaborations in system programming, cybersecurity, and startup development
+- Discussions on runtime architecture, theming, and application security
+
+**Currently Hacking On:**
+- Learning low-level programming and offensive security
+- Scaling Fleeting Offers with type-safe theming and access control
+
+- 💬 Ask me about anything — always happy to help  
+- 📫 Reach me at: **abtahitajwar@gmail.com**
 
 &nbsp;
 
-
 ![Tajwar's github stats](https://github-readme-stats.vercel.app/api?username=abtahi-tajwar&show_icons=true&hide_border=true)
 
-:pushpin: Star and Fork this [CGCodeGenerator App](https://github.com/abtahi-tajwar/CGCodeGenerator) :pencil:
-:pushpin: Star and Fork this [PixelArt App](https://github.com/abtahi-tajwar/PixelArtApp) :pencil:
+:pushpin: Star and Fork this [CGCodeGenerator App](https://github.com/abtahi-tajwar/CGCodeGenerator) ✨  
+:pushpin: Star and Fork this [PixelArt App](https://github.com/abtahi-tajwar/PixelArtApp) ✨
