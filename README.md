@@ -47,7 +47,5 @@ I specialize in crafting highly interactive frontends with **React**, **Svelte**
 
 &nbsp;
 
-![Tajwar's github stats](https://github-readme-stats.vercel.app/api?username=abtahi-tajwar&show_icons=true&hide_border=true)
-
 :pushpin: Star and Fork this [CGCodeGenerator App](https://github.com/abtahi-tajwar/CGCodeGenerator) ✨  
 :pushpin: Star and Fork this [PixelArt App](https://github.com/abtahi-tajwar/PixelArtApp) ✨
