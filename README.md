@@ -27,7 +27,7 @@ I specialize in crafting highly interactive frontends with **React**, **Svelte**
 **Skills & Tools:**
 - Languages: JavaScript, TypeScript, C, C++, C#, PHP
 - Frameworks/Libraries: React, Svelte, Laravel, .NET, TailwindCSS
-- Backend: Node.js, Laravel, Firebase, SQLServer, MySQL
+- Backend: ASP.Net Core, Node.js, Laravel
 - Others: Neovim, Web Scraping, REST APIs, OAuth, Docker, Git
 
 **Education:**
